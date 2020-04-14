@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://creativefilms.ca/rss.xml" rel="self" type="application/rss+xml" />
+     <title>Creative Films</title>
+    <link>https://creativefilms.ca</link>
+    <description>Make Your Next Impact with a Creative Film</description>
+    <item>
+      <guid>https://creativefilms.ca</guid>
+      <title>Creative Films</title>
+      <link>https://creativefilms.ca</link>
+      <description />
+      <pubDate>Fri, 27 Mar 2020 06:06:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://creativefilms.ca/index.html</guid>
+      <title>Creative Films</title>
+      <link>https://creativefilms.ca/index.html</link>
+      <description />
+      <pubDate>Fri, 27 Mar 2020 06:06:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://creativefilms.ca/films.html</guid>
+      <title>Creative Films: Short Films</title>
+      <link>https://creativefilms.ca/films.html</link>
+      <description />
+      <pubDate>Fri, 27 Mar 2020 06:06:00 Z</pubDate>
+    </item>
+  </channel>
+</rss>
