@@ -1,2 +1,2 @@
 # Redirect default Netlify subdomain to primary domain
-https://creativefilms.netlify.com/* https://creativefilms.ca/:splat 301!
+https://creativefilms.netlify.app/* https://creativefilms.ca/:splat 301!
